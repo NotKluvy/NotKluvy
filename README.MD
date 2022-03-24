@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
 <a href="https://www.jetbrains.com/fr-fr/idea/download/" target="_blank">
-<img style="margin: 12px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="Java" height="40" />
+<img style="margin: 8px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="Java" height="30" />
 </a>
 </div>
 <br/>
