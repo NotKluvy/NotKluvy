@@ -6,10 +6,16 @@
 <img style="margin: 50px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="Java" height="40" />
 </div>
 <br/>
-<div align="center">📚 Language</div>�
+<div align="center">📚 Language</div>
 <br/>
 <div align="center">
 <img style="margin: 50px" src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" alt="Java" height="40" />
+</div>
+<br/>
+<div align="center">📚 Currently Learning</div>
+<br/>
+<div align="center">
+<img style="margin: 50px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="Java" height="40" />
 </div>
 <br/>
 <div align="center">📊 Stats</div>
