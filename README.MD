@@ -8,10 +8,12 @@
 </a>
 </div>
 <br/>
-<div align="center">📚 Language</div>
+<div align="center">📚 Language</div>�
 <br/>
 <div align="center">
 <img style="margin: 50px" src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" alt="Java" height="40" />
 </div>
+<br/>
+<div align="center">📊 Stats</div>
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotKluvy&hide_border=true&layout=compact" align="center" /></div>
