@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notkluvy&label=Profile%20views&color=0e75b6&style=flat" alt="notkluvy" /> </p>
 
 <h3 align="center">Contact Me</h3>
