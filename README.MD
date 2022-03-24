@@ -5,9 +5,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NotKluvy&&style=flat-square" align="center" />
-</div>
 <br/>
 <div align="center">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
