@@ -8,8 +8,6 @@
 </a>
 </div>
 <br/>
-<div align="center">Visitors</div>
-<br/>
 <div align="center">
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 </div>
