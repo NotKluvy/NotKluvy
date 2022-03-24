@@ -1,10 +1,10 @@
 ### <div align="center">I'm Kluvy, a java developer 👨‍💻 working since 2021 🚀</div>
 <br/>
 <div align="center">😂 Fun Fact</div>
-<div align="center">I was an admin with no admin perms on a shitty server</div>
+<div align="center">I was an admin with no admin perms on a shitty 💩 server</div>
 <br/>
 <div align="center">
-<img style="margin: 50px" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/8cc72bdaa42b3fdc7e640aa1b305b0e03bb3c228.png" alt="Java" height="40" />
+<img style="margin: 50px" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/8cc72bdaa42b3fdc7e640aa1b305b0e03bb3c228.png" alt="Java" height="50" />
 </div>
 <br/>
 <div align="center">👨‍💻 Coding Software</div>
