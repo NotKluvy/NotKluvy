@@ -4,6 +4,8 @@
 <br/>
 <div align="center">
 <img style="margin: 50px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" alt="Intellij" height="40" />
+<img style="margin: 50px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="PyCharm" height="40" />
+<img style="margin: 50px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="CLion" height="40" />
 </div>
 <br/>
 <div align="center">📚 Language</div>
